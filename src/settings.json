@@ -1,0 +1,97 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unlock seamless productivity and seamless collaboration with our innovative solutions tailored for modern professionals.",
+        "title": "Transform Your Worklife, Elevate Your Success"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Unlock seamless productivity and seamless collaboration with our innovative solutions tailored for modern professionals.",
+        "title": "Transform Your Worklife, Elevate Your Success"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "buttonText": "Subscribe Now",
+        "description": "Stay informed with life hacks, productivity tips, and industry insights delivered straight to your inbox. Our newsletter is designed to help you find harmony in your work and personal life.",
+        "frequencyContent": "How frequently will subscribers receive updates, and what kind of content can they expect?",
+        "frequencyResponse": "Subscribers will receive weekly updates comprising motivational articles, life management techniques, and exclusive industry news. Occasionally, there might be special editions for breaking news or significant events.",
+        "heading": "What value does subscribing to your newsletter provide?",
+        "incentivesContent": "Are there incentives for signing up, such as discounts, exclusive content, or early access to new products?",
+        "incentivesResponse": "Yes, by subscribing, you'll receive exclusive discounts, early access to new products, and premium content tailored for our valued subscribers."
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unlock seamless productivity and seamless collaboration with our innovative solutions tailored for modern professionals.",
+        "title": "Transform Your Worklife, Elevate Your Success"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unlock seamless productivity and seamless collaboration with our innovative solutions tailored for modern professionals.",
+        "title": "Transform Your Worklife, Elevate Your Success"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Unlock seamless productivity and seamless collaboration with our innovative solutions tailored for modern professionals.",
+        "title": "Transform Your Worklife, Elevate Your Success"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unlock seamless productivity and seamless collaboration with our innovative solutions tailored for modern professionals.",
+        "title": "Transform Your Worklife, Elevate Your Success"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unlock seamless productivity and seamless collaboration with our innovative solutions tailored for modern professionals.",
+        "title": "Transform Your Worklife, Elevate Your Success"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock seamless productivity and seamless collaboration with our innovative solutions tailored for modern professionals.",
+        "title": "Transform Your Worklife, Elevate Your Success"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unlock seamless productivity and seamless collaboration with our innovative solutions tailored for modern professionals.",
+        "title": "Transform Your Worklife, Elevate Your Success"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unlock seamless productivity and seamless collaboration with our innovative solutions tailored for modern professionals.",
+        "title": "Transform Your Worklife, Elevate Your Success"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock seamless productivity and seamless collaboration with our innovative solutions tailored for modern professionals.",
+        "title": "Transform Your Worklife, Elevate Your Success"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Transform Your Worklife, Elevate Your Success",
+  "subtitle": "Unlock seamless productivity and seamless collaboration with our innovative solutions tailored for modern professionals."
+}
